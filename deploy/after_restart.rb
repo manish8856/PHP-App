@@ -1,1 +1,1 @@
-system “mkdir", "/srv/www/MyTestFile"
+exec "mkdir","/srv/www/simplephp/MY-Test"
