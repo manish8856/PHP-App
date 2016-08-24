@@ -1,1 +1,1 @@
-exec "mkdir","/srv/www/simplephp/Manish"
+exec "mkdir","/srv/www/simplephp/A1"
